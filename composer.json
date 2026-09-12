@@ -1,0 +1,13 @@
+{
+  "name": "webbycrown/vows-statamic-theme",
+  "type": "statamic-starter-kit",
+  "description": "A Statamic starter kit for wedding planners, featuring named packages, planners, venues, and a booking calendar.",
+  "require": {
+    "statamic/cms": "*"
+  },
+  "extra": {
+    "statamic": {
+      "starter-kit": true
+    }
+  }
+}
