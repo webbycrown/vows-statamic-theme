@@ -4,9 +4,6 @@ Vows is a wedding planning starter kit for planners, venues, and celebration stu
 
 The kit ships four home variants, package listings, booking, events, shop pages, blog and podcast layouts, and membership content so a planner can publish offerings and take inquiry bookings from one site.
 
-**Live demo:** https://vows-statamic.webbydemo.in/  
-Control Panel: `/cp` — `admin@example.com` / `password`
-
 ## Pages of Vows
 
 The Vows starter kit includes a comprehensive set of pages for a wedding planner site:
